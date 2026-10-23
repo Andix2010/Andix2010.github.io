@@ -1,0 +1,25 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 2;
+    color: azure;
+    background-color: blue;
+    width: 800px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+main > li {
+    text-align: justify;
+    font-size: 15px;
+}
+
+p {
+    text-align: inherit;
+    font-size: 18px;
+    color: bisque;
+}
